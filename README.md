@@ -1,2 +1,2 @@
 # QDRNMF
-The code of Quadratic Dimensionality Reduction Nonnegative Matrix Factorization for Data Representation.
+The code of Cascaded Dimensionality Reduction Nonnegative Matrix Factorization for Data Representation.
